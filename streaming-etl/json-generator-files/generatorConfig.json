@@ -5,7 +5,7 @@
         }],
     "producers": [{
     "type": "iothub",
-    "connectionString": "HostName=[device ID].azure-devices.net;DeviceId=[device ID];SharedAccessKey=[key]",
+    "connectionString": "HostName=streamingetliothub.azure-devices.net;DeviceId=iot-device1;SharedAccessKey=OnBiIkaJbXlXrqy8oI7aO2WVTt49A9k+FuLyMqRCn7Q=",
     "protocol": "HTTPS"
 }]
 }
